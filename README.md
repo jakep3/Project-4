@@ -113,21 +113,21 @@ The following are the results from part 2 of the project.
   1.Find a short time period that there is a marine mammal vocalization in recorded data and plot its spectrogram.
     i. The time and location was ....
     
-    ![](9.JPG)
+   ![](9.JPG)
     
 __Figure 9:__ Spectrogram for a short period of time that there is marine mammal vocalization. 
 
   2. Find a short time period that there is an airgun noise in recorded data and plot its spectrogram.
     i. The time and location was ...
     
-    ![](10.JPG)
+  ![](10.JPG)
     
 __Figure 10:__ Spectrogram for a short period of time that there is airgun noise. 
 
   3. Find a short time period that there is an earthquake or a volcano eruption in recorded data and plot its spectrogram.
     i. The time and location was ...
     
-    ![](11.JPG)
+  ![](11.JPG)
     
 __Figure 11:__ Spectrogram for a short period of time that there is an earthquake or volcano eruption. 
  
