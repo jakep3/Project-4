@@ -44,10 +44,13 @@ Hydrophones do this...
 Hydrophone data is available at this website : https://oceanobservatories.org/instrument-series/hydbba/
 
 This is the Wenz curve from Ocean Noise Slides ... 
+
 ![](12.JPG)
 
 Power spectral density of a signal uses this equation ... 
+
 ![](13.JPG)
+![](14.JPG)
 
 Project 2 link is here and is where times came from : https://github.com/jakep3/Project-2-
 
