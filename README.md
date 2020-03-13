@@ -35,10 +35,47 @@ __RESULTS__
 
 
 ![](1.JPG)
+__Figure 1:__ 
 
-__Figure 2:__ The Earthquake Magnitude vs Time for the full data set.
  
- 
+ ![](2.JPG)
+__Figure 2:__ 
+
+
+![](3.JPG)
+__Figure 3:__ 
+
+
+![](4.JPG)
+__Figure 4:__ 
+
+
+![](5.JPG)
+__Figure 5:__ 
+
+
+![](6.JPG)
+__Figure 6:__ 
+
+
+![](7.JPG)
+__Figure 7:__ 
+
+
+![](8.JPG)
+__Figure 8:__ 
+
+
+![](9.JPG)
+__Figure 9:__ 
+
+
+![](10.JPG)
+__Figure 10:__ 
+
+
+![](11.JPG)
+__Figure 11:__ 
  
 __CONCLUSIONS__ 
 
