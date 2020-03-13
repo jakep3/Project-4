@@ -24,9 +24,9 @@ From Project 2, four time periods were to be identified and the corresponsding P
   4. When it rains and it is windy
   
 After creating the plots, the following questions were to be answered:
- a. What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result.
- b. Which one has the highest impact? Rain or wind? 
- c. What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
+  1. What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result.
+  2. Which one has the highest impact? Rain or wind? 
+  3. What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
 
 ___PART 2:___
 
@@ -97,14 +97,14 @@ __Figure 8:__ When it rains and it is windy, at the Oregon Offshore site.
 
 
 
-Refering to the previous plots, following questions are answered: 
+Refering to the previous plots, the questions were answered as follows: 
 
- a. What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result.
-    i. 
- b. Which one has the highest impact? Rain or wind? 
-    i. 
- c. What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
-    i. 
+ 1. What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result.
+    
+ 2. Which one has the highest impact? Rain or wind? 
+    
+ 3. What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
+    
 
 
 ___PART 2___
