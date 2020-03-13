@@ -117,12 +117,15 @@ The following are the results from part 2 of the project.
     
 __Figure 9:__ Spectrogram for a short period of time that there is marine mammal vocalization. 
 
+
   2. Find a short time period that there is an airgun noise in recorded data and plot its spectrogram.
     i. The time and location was ...
+    
     
   ![](10.JPG)
     
 __Figure 10:__ Spectrogram for a short period of time that there is airgun noise. 
+
 
   3. Find a short time period that there is an earthquake or a volcano eruption in recorded data and plot its spectrogram.
     i. The time and location was ...
@@ -131,6 +134,7 @@ __Figure 10:__ Spectrogram for a short period of time that there is airgun noise
     
 __Figure 11:__ Spectrogram for a short period of time that there is an earthquake or volcano eruption. 
  
+
 
    4. Compare the bandwidth of these three signals. Are they consistent with what is shown in the Wenz curve?
    
