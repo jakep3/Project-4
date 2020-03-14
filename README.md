@@ -13,9 +13,13 @@ BME 450
 
 __PROBLEM STATEMENT__ 
 
-The purpose of this project was to evaluate Hydrophone data from the OOI Broadband Hydrophone website and discover the effects of wind and rain on underwater noise. There were two sites of interest:
+There were two parts to this project. The purpose of the first part was to evaluate Hydrophone data from the OOI Broadband Hydrophone website and discover the effects of wind and rain on underwater noise. There were two sites of interest:
   1.	Oregon Shelf Cabled Benthic Experiment Package
   2.	Oregon Offshore Cabled Benthic Experiment Package
+
+The purpose of the second part to this project was to find and evaluate short periods of time where there was marine mammal vocalization, airgun noise, and earthquake/volcano eruption noise. 
+
+The two parts are described as follows: 
 
 ___Part 1:___
 
@@ -60,14 +64,14 @@ The equation is:
 To obtain the PSD in units of decibels, the following equation is used: 
 ![](14b.JPG)
 
-* The wind and rain time periods of interest were form Project 2 and this is the link: https://github.com/jakep3/Project-2-
+* The wind and rain time periods of interest were from Project 2 and this is the link: https://github.com/jakep3/Project-2-
 
 * Airguns are used to create bubbles under water, which creates sound (pressure) waves when the bubbles are collapsed by the water pressure. The airguns are used during seismic reflection surveys and the sound waves can be detected by hydrophones. 
 
 
 __SOLUTION__
 
-Solution involved evaluating the data from Project 2 to determine the specific times that the four weather conditions were met. Then form the OOI Website, the corresponding Hydrophone data was able to be found and linked to Jupyter notebook for evaluation. 
+Solution involved evaluating the data from Project 2 to determine the specific times that the four weather conditions were met. Then from the OOI Website, the corresponding Hydrophone data was able to be found and linked to Jupyter notebook for evaluation. 
 
 The code involved can be seen in the link in the begining of the report. 
 Once the plots were made, the questions of interest for the project were able to be answered through plot analysis. 
