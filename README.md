@@ -123,7 +123,10 @@ Referring to the previous plots, knowing that PSD is the spectral levels, the qu
  1. What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result.
 * Effect of wind: 
 * Effect of rain: 
- 
+
+  ![](15.JPG)
+  
+  __Table 1:__ A table gathering the approximate average and maximum spectral values for the shelf site and offshore site. 
     
  2. Which one has the highest impact? Rain or wind? 
 * It appears that rain has the highest impact. The reason for this thinking is.....................
