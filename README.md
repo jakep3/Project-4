@@ -24,7 +24,7 @@ From Project 2, four time periods were to be identified and the corresponsding P
   3. When it rains and it is not windy
   4. When it rains and it is windy
   
-After creating the plots, the following questions were to be answered:
+After creating the eight plots, the following questions were to be answered:
   1. What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result.
   2. Which one has the highest impact? Rain or wind? 
   3. What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
@@ -138,10 +138,13 @@ __Figure 11:__ Spectrogram for a short period of time that there is an earthquak
  
 
 
-   4. The bandwidth 
+   4. 
+      The bandwidth for the marine mammal vocalization ranges from roughly 20 Hz to 5000+ Hz. This is consistent with what is shown in the Wenz curve, under Biologics. Biologics is the category that marine life noise is under and ranges from 10Hz to 100000Hz. 
+      
+   The bandwidth of the airguns appear to range from 0 Hz to 14000+ Hz every 15 seconds, and every 2 seconds they range from 6000 Hz to 14000+ Hz. Airguns produce their sound waves by making bubbles underwater. This is consistent with the Wenz Curve, under the category of bubbles and Spray (Surface Agitation) is categorized with a range of 100Hz to roughly 100000Hz. 
+  
    
-   Compare the bandwidth of these three signals. Are they consistent with what is shown in the Wenz curve?
-   
+   The band width for the earthquake/volcano eruption is roughly 1 Hz to 100 Hz, with the most intense sound at from 20 Hz to 50 Hz. This is consistent with what is shown in the Wenz curve, under Earthquakes and Explosions, which range from 1Hz to 100Hz.  
    
 __CONCLUSIONS__ 
 
