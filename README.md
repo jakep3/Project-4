@@ -125,7 +125,7 @@ __Figure 9:__ Spectrogram for a short period of time that there is marine mammal
 
   2. There is airgun noise at the Asial Seabase RS03AXBS site on August 1st 2019. The spectrogram of the recorded data can be seen in Figure 10. 
     
-  ![](10.JPG)
+  ![](10b.JPG)
     
 __Figure 10:__ Spectrogram for a short period of time that there is airgun noise. 
 
