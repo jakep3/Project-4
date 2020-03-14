@@ -146,7 +146,7 @@ __Figure 9:__ Spectrogram for a short period of time that there is marine mammal
 __Figure 10:__ Spectrogram for a short period of time that there is airgun noise. 
 
 
-  3. There was earthquake/volcano eruption activity at the Axial seamount CE04OSBP site on April 15th 1017. The spectrogram of the recorded data can be seen in Figure 11.
+  3. There was earthquake/volcano eruption activity at the Axial seamount CE04OSBP site on April 15th 2017. The spectrogram of the recorded data can be seen in Figure 11.
     
   ![](11.JPG)
     
