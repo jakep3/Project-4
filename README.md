@@ -121,16 +121,15 @@ __Figure 8:__ When it rains and it is windy, at the Oregon Offshore site.
 Referring to the previous plots, knowing that PSD is the spectral levels, the questions were answered as follows: 
 
  1. What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result.
-     * Based on Table 1 below, 
-     * Effect of wind: 
-     * Effect of rain:  
+    * Based on Table 1 below, 
+     * Effect of wind: ---------
+     * Effect of rain:  --------------
     
  2. Which one has the highest impact? Rain or wind? 
-    * It appears that rain has the highest impact. The reason for this thinking is.....................
+    * It appears that rain has the highest impact since it causes the most increase in the spectral value.
  
-    
  3. What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
-    * The two sites are at different depths. The Oregon Shelf Cabled site is at a depth of 80m, while the Oregon Offshore Cabled site is at a depth of 580m. 
+    * The two sites are at different depths. The Oregon Shelf Cabled site is at a depth of 80m, while the Oregon Offshore Cabled site is at a depth of 580m. The two sites will observe different spectral levels because the same sound waves will not necessarily be able to travel to both of the sites at the different depths.
  
     
  ![](15.JPG)
@@ -171,6 +170,7 @@ __Figure 11:__ Spectrogram for a short period of time that there is an earthquak
    
 __CONCLUSIONS__ 
 
+There were two parts to this project. The purpose of the first part was to evaluate Hydrophone data from the OOI Broadband Hydrophone website and discover the effects of wind and rain on underwater noise. The purpose of the second part to this project was to find and evaluate short periods of time where there was marine mammal vocalization, airgun noise, and earthquake/volcano eruption noise. PSD vs frequency plots were created which were able to be evaluated to understand the effects of wind and rain. It appears that the relation is ( INSERT RESULT 1). Spectrograms were created for part two in order to observe sounds in the water at different frequencies and relate them to the Wenz Curve. Hydrophone data is very valuable and provides a lot of information about ocean activities, marine life, and more. 
  
  
 __REFERENCES__
