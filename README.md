@@ -40,17 +40,18 @@ The following tasks were to be performed and questions answered.
 
 __BACKGROUND__ 
 
-Hydrophones do this...
+Hydrophones are sensors that detect soundwaves underwater and turn them into an electric signal that can be read and evaluated. Hydrophone data for the project is available for use at the OOI Broadband Hydrohone website [1]. 
 
-Hydrophone data is available at this website : https://oceanobservatories.org/instrument-series/hydbba/
-
-This is the Wenz curve from Ocean Noise Slides ... 
+This is the Wenz Curve provides expected frequencies and spectrum levels for various sources of noise underwater. It can be seen as follows. 
 
 ![](12.JPG)
 
-Power spectral density of a signal uses this equation ... 
+__Wenz Curve__: The Wenz Curve for ocean noise. 
 
+Power spectral density (PSD) of a signal is the spectra level, which gives the mean-squared pressure of noise measured within a freqency bandwidth, divided by the measurement of bandwidth. It is essentially a measure of the signal's power versus frequency. The equation is used in the code related to the project. 
+The equation is: 
 ![](13.JPG)
+To convert PSD to decibel values, this equation is used:
 ![](14.JPG)
 
 Project 2 link is here and is where times came from : https://github.com/jakep3/Project-2-
@@ -148,3 +149,7 @@ __CONCLUSIONS__
 
  
 __REFERENCES__
+
+OOI WEBSITE: https://oceanobservatories.org/instrument-series/hydbba/
+Wenz Curve URL : https://dosits.org/science/sounds-in-the-sea/what-are-common-underwater-sounds/
+
