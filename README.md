@@ -71,10 +71,11 @@ To obtain the PSD in units of decibels, the following equation is used:
 
 __SOLUTION__
 
-Solution involved evaluating the data from Project 2 to determine the specific times that the four weather conditions were met. Then from the OOI Website, the corresponding Hydrophone data was able to be found and linked to Jupyter notebook for evaluation. 
+For part one, the solution involved evaluating the data from Project 2 for both the Oregon Shelf and Oregon Offshore sites, to determine the specific timeframes that the four weather conditions were met. Once those specific timeframes were determined, the corresponding hydrophone data from the OOI website was found and evaluated in Jupyter Notebook. Evaluation involved finding the sampling rate, and using a function that solves the PSD and converts the PSD to decibels. Then, the function plots the PSD vs frequency in each site, for the four weather condition timeframes. Once the plots were made, the questions of interest were able to be answered through plot analysis. 
 
-The code involved can be seen in the link in the begining of the report. 
-Once the plots were made, the questions of interest for the project were able to be answered through plot analysis. 
+For part two, the solution involved using given timeframes for the mammal noise and airgun noise, and then using the corresponding hydrophone data from the OOI Website. The earthquake timeframe was found through google searches for underwater earthquakes and eruptions. Once one was found, the corresponding hydrophone data from the OOI website was used. Jupyter notebook was used to create plots of spectrograms for each of the three cases. This was done by using code that was provided, and modifying it to frame the frequencies that represent the data best. Once the plots were made, they were able to be compared to the Wenz Curve to check for consistancy. 
+
+Please see the Jupyter Notebook link at the begining of the report if interested in the code. 
 
 
 __RESULTS__
