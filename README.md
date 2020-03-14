@@ -53,7 +53,7 @@ Power spectral density (PSD) of a signal is the spectra level, which gives the m
 The equation is: 
 ![](13.JPG)
 
-![](14.JPG)
+![](140.JPG)
 
 Project 2 link is here and is where times came from : https://github.com/jakep3/Project-2-
 
