@@ -49,9 +49,10 @@ This is the Wenz Curve provides expected frequencies and spectrum levels for var
 __Wenz Curve__: The Wenz Curve for ocean noise. 
 
 Power spectral density (PSD) of a signal is the spectra level, which gives the mean-squared pressure of noise measured within a freqency bandwidth, divided by the measurement of bandwidth. It is essentially a measure of the signal's power versus frequency. The equation is used in the code related to the project. 
+
 The equation is: 
 ![](13.JPG)
-To convert PSD to decibel values, this equation is used:
+
 ![](14.JPG)
 
 Project 2 link is here and is where times came from : https://github.com/jakep3/Project-2-
