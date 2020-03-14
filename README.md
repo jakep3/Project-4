@@ -48,7 +48,7 @@ __BACKGROUND__
 The following is helpful background information for the project. 
 
 
-* Hydrophones are sensors that detect soundwaves underwater and turn them into an electric signal that can be read and evaluated. Hydrophone data for the project is available for use at the OOI Broadband Hydrohone website [1]. 
+* Hydrophones are sensors that detect soundwaves underwater and turn them into an electric signal that can be read and evaluated. Hydrophone data for the project is available for use at the OOI Broadband Hydrophone website [1]. 
 
 * This is the Wenz Curve, which provides expected frequencies and spectrum levels for various sources of noise underwater. It can be seen as follows. 
 
