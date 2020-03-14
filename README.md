@@ -121,21 +121,21 @@ __Figure 8:__ When it rains and it is windy, at the Oregon Offshore site.
 Referring to the previous plots, knowing that PSD is the spectral levels, the questions were answered as follows: 
 
  1. What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result.
-* Effect of wind: 
-* Effect of rain: 
-
-  ![](15.JPG)
-  
-  __Table 1:__ A table gathering the approximate average and maximum spectral values for the shelf site and offshore site. 
+ * Based on Table 1 below, 
+ * Effect of wind: 
+ * Effect of rain:  
     
  2. Which one has the highest impact? Rain or wind? 
-* It appears that rain has the highest impact. The reason for this thinking is.....................
+ * It appears that rain has the highest impact. The reason for this thinking is.....................
  
     
  3. What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
-* The two sites are at different depths. The Oregon Shelf Cabled site is at a depth of 80m, while the Oregon Offshore Cabled site is at a depth of 580m. 
+ * The two sites are at different depths. The Oregon Shelf Cabled site is at a depth of 80m, while the Oregon Offshore Cabled site is at a depth of 580m. 
  
     
+ ![](15.JPG)
+  
+  __Table 1:__ A table gathering the approximate average and maximum spectral values for the shelf site and offshore site, from Figures 1 through 8.
 
 
 ___Part 2 Results___
