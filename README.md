@@ -17,7 +17,8 @@ The purpose of this project was to evaluate Hydrophone data from the OOI Broadba
   1.	Oregon Shelf Cabled Benthic Experiment Package
   2.	Oregon Offshore Cabled Benthic Experiment Package
 
-___PART 1:___
+___Part 1:___
+
 From Project 2, four time periods were to be identified and the corresponsding Power Spectral Density (PSD) vs Frequency plots were to be created. The four time periods of interest were as follows for both sites. 
   1. When it does not rain and it is not windy
   2. When it does not rain and it is windy
@@ -29,7 +30,7 @@ After creating the eight plots, the following questions were to be answered:
   2. Which one has the highest impact? Rain or wind? 
   3. What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
 
-___PART 2:___
+___Part 2:___
 
 The following tasks were to be performed and questions answered. 
 
@@ -75,7 +76,7 @@ Once the plots were made, the questions of interest for the project were able to
 __RESULTS__
 
 
-___PART 1 RESULTS___
+___Part 1 Results___
 
 The following are the PSD vs Frequency plots (Figures 1 - 8) for the four time periods, for both sites, that were identified in Project 2.   
 
@@ -122,7 +123,7 @@ Refering to the previous plots, the questions were answered as follows:
     
 
 
-___PART 2 RESULTS___
+___Part 2 Results___
 
 The following are the results from part 2 of the project. 
 
