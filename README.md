@@ -116,25 +116,21 @@ Refering to the previous plots, the questions were answered as follows:
 ___PART 2___
 The following are the results from part 2 of the project. 
 
-  1.Find a short time period that there is a marine mammal vocalization in recorded data and plot its spectrogram.
-    i. The time and location was ....
+  1. There is a marine mammal vocalization recorded on the RS01SLBS device on October 6th 2017. The spectrogram of the recorded data can be seen in Figure 9. 
     
    ![](9.JPG)
     
 __Figure 9:__ Spectrogram for a short period of time that there is marine mammal vocalization. 
 
 
-  2. Find a short time period that there is an airgun noise in recorded data and plot its spectrogram.
-    i. The time and location was ...
-    
+  2. There is airgun noise at the Asial Seabase RS03AXBS site on August 1st 2019. The spectrogram of the recorded data can be seen in Figure 10. 
     
   ![](10.JPG)
     
 __Figure 10:__ Spectrogram for a short period of time that there is airgun noise. 
 
 
-  3. Find a short time period that there is an earthquake or a volcano eruption in recorded data and plot its spectrogram.
-    i. The time and location was ...
+  3. There was earthquake/volcano eruption activity at the Axial seamount CE04OSBP site on April 15th 1017. The spectrogram of the recorded data can be seen in Figure 11.
     
   ![](11.JPG)
     
@@ -142,7 +138,9 @@ __Figure 11:__ Spectrogram for a short period of time that there is an earthquak
  
 
 
-   4. Compare the bandwidth of these three signals. Are they consistent with what is shown in the Wenz curve?
+   4. The bandwidth 
+   
+   Compare the bandwidth of these three signals. Are they consistent with what is shown in the Wenz curve?
    
    
 __CONCLUSIONS__ 
