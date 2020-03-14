@@ -171,7 +171,7 @@ __CONCLUSIONS__
  
 __REFERENCES__
 
-OOI WEBSITE: https://oceanobservatories.org/instrument-series/hydbba/
+[1] 	"HYDBBA - Broadband Acoustic Receiver (Hydrophone)," Ocean Observatories Initiative, [Online]. Available: https://oceanobservatories.org/instrument-series/hydbba/. [Accessed 14 March 2020].
 
-Wenz Curve URL : https://dosits.org/science/sounds-in-the-sea/what-are-common-underwater-sounds/
 
+[2] 	"What are common underwater sounds?," Discovery of Sound in the Sea, [Online]. Available: https://dosits.org/science/sounds-in-the-sea/what-are-common-underwater-sounds/. [Accessed 14 March 2020].
