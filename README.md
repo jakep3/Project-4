@@ -29,7 +29,7 @@ From Project 2, four time periods were to be identified and the corresponsding P
   3. When it rains and it is not windy
   4. When it rains and it is windy
   
-After creating the eight plots, the following questions were to be answered:
+After creating the eight plots, the spectra levels were to be compared and the following questions were to be answered:
   1. What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result.
   2. Which one has the highest impact? Rain or wind? 
   3. What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
@@ -118,7 +118,7 @@ __Figure 8:__ When it rains and it is windy, at the Oregon Offshore site.
 
 
 
-Refering to the previous plots, the questions were answered as follows: 
+Refering to the previous plots, knowing that PSD is the spectral levels, the questions were answered as follows: 
 
  1. What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result.
 * 
