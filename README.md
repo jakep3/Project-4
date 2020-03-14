@@ -23,7 +23,7 @@ The two parts are described as follows:
 
 ___Part 1:___
 
-From Project 2, four time periods were to be identified and the corresponsding Power Spectral Density (PSD) vs Frequency plots were to be created. The four time periods of interest were as follows for both sites. 
+From Project 2, four time periods were to be identified and the corresponding Power Spectral Density (PSD) vs Frequency plots were to be created. The four time periods of interest were as follows for both sites. 
   1. When it does not rain and it is not windy
   2. When it does not rain and it is windy
   3. When it rains and it is not windy
@@ -56,7 +56,7 @@ The following is helpful background information for the project.
 
 __Wenz Curve__: The Wenz Curve for ocean noise [2]. 
 
-* Power spectral density (PSD) of a signal is the spectra level, which gives the mean-squared pressure of noise measured within a freqency bandwidth, divided by the measurement of bandwidth. It is essentially a measure of the signal's power versus frequency. The equation is used in the code related to this project. 
+* Power spectral density (PSD) of a signal is the spectra level, which gives the mean-squared pressure of noise measured within a frequency bandwidth, divided by the measurement of bandwidth. It is essentially a measure of the signal's power versus frequency. The equation is used in the code related to this project. 
 
 The equation is: 
 ![](13.JPG)
@@ -73,9 +73,9 @@ __SOLUTION__
 
 For part one, the solution involved evaluating the data from Project 2 for both the Oregon Shelf and Oregon Offshore sites, to determine the specific timeframes that the four weather conditions were met. Once those specific timeframes were determined, the corresponding hydrophone data from the OOI website was found and evaluated in Jupyter Notebook. Evaluation involved finding the sampling rate, and using a function that solves the PSD and converts the PSD to decibels. Then, the function plots the PSD vs frequency in each site, for the four weather condition timeframes. Once the plots were made, the questions of interest were able to be answered through plot analysis. 
 
-For part two, the solution involved using given timeframes for the mammal noise and airgun noise, and then using the corresponding hydrophone data from the OOI Website. The earthquake timeframe was found through google searches for underwater earthquakes and eruptions. Once one was found, the corresponding hydrophone data from the OOI website was used. Jupyter notebook was used to create plots of spectrograms for each of the three cases. This was done by using code that was provided, and modifying it to frame the frequencies that represent the data best. Once the plots were made, they were able to be compared to the Wenz Curve to check for consistancy. 
+For part two, the solution involved using given timeframes for the mammal noise and airgun noise, and then using the corresponding hydrophone data from the OOI Website. The earthquake timeframe was found through google searches for underwater earthquakes and eruptions. Once one was found, the corresponding hydrophone data from the OOI website was used. Jupyter notebook was used to create plots of spectrograms for each of the three cases. This was done by using code that was provided, and modifying it to frame the frequencies that represent the data best. Once the plots were made, they were able to be compared to the Wenz Curve to check for consistency. 
 
-Please see the Jupyter Notebook link at the begining of the report if interested in the code. 
+Please see the Jupyter Notebook link at the beginning of the report if interested in the code. 
 
 
 __RESULTS__
@@ -118,7 +118,7 @@ __Figure 8:__ When it rains and it is windy, at the Oregon Offshore site.
 
 
 
-Refering to the previous plots, knowing that PSD is the spectral levels, the questions were answered as follows: 
+Referring to the previous plots, knowing that PSD is the spectral levels, the questions were answered as follows: 
 
  1. What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result.
 * Effect of wind: 
@@ -146,14 +146,14 @@ The following are the results from part 2 of the project.
 __Figure 9:__ Spectrogram for a short period of time that there is marine mammal vocalization. 
 
 
-  2. There is airgun noise at the Asial Seabase RS03AXBS site on August 1st 2019. The spectrogram of the recorded data can be seen in Figure 10. 
+  2. There is airgun noise at the Axial Seabase RS03AXBS site on August 1st 2019. The spectrogram of the recorded data can be seen in Figure 10. 
     
   ![](10b.JPG)
     
 __Figure 10:__ Spectrogram for a short period of time that there is airgun noise. 
 
 
-  3. There was earthquake/volcano eruption activity at the Axial seamount CE04OSBP site on April 15th 2017. The spectrogram of the recorded data can be seen in Figure 11.
+  3. There was earthquake/volcano eruption activity at the Axial Seamount CE04OSBP site on April 15th 2017. The spectrogram of the recorded data can be seen in Figure 11.
     
   ![](11.JPG)
     
