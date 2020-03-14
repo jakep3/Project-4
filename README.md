@@ -40,22 +40,29 @@ The following tasks were to be performed and questions answered.
 
 __BACKGROUND__ 
 
-Hydrophones are sensors that detect soundwaves underwater and turn them into an electric signal that can be read and evaluated. Hydrophone data for the project is available for use at the OOI Broadband Hydrohone website [1]. 
+The following is helpful background information for the project. 
 
-This is the Wenz Curve provides expected frequencies and spectrum levels for various sources of noise underwater. It can be seen as follows. 
+
+* Hydrophones are sensors that detect soundwaves underwater and turn them into an electric signal that can be read and evaluated. Hydrophone data for the project is available for use at the OOI Broadband Hydrohone website [1]. 
+
+* This is the Wenz Curve, which provides expected frequencies and spectrum levels for various sources of noise underwater. It can be seen as follows. 
 
 ![](12.JPG)
 
-__Wenz Curve__: The Wenz Curve for ocean noise. 
+__Wenz Curve__: The Wenz Curve for ocean noise [2]. 
 
-Power spectral density (PSD) of a signal is the spectra level, which gives the mean-squared pressure of noise measured within a freqency bandwidth, divided by the measurement of bandwidth. It is essentially a measure of the signal's power versus frequency. The equation is used in the code related to the project. 
+* Power spectral density (PSD) of a signal is the spectra level, which gives the mean-squared pressure of noise measured within a freqency bandwidth, divided by the measurement of bandwidth. It is essentially a measure of the signal's power versus frequency. The equation is used in the code related to this project. 
 
 The equation is: 
 ![](13.JPG)
 
-![](140.JPG)
+To obtain the PSD in units of decibels, the following equation is used: 
+![](14b.JPG)
 
-Project 2 link is here and is where times came from : https://github.com/jakep3/Project-2-
+* The wind and rain time periods of interest were form Project 2 and this is the link: https://github.com/jakep3/Project-2-
+
+* Airguns are used to create bubbles under water, which creates sound (pressure) waves when the bubbles are collapsed by the water pressure. The airguns are used during seismic reflection surveys and the sound waves can be detected by hydrophones. 
+
 
 __SOLUTION__
 
