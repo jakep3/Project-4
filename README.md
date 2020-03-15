@@ -128,7 +128,7 @@ Referring to the previous plots, knowing that PSD is the spectral levels, the qu
     * It appears that rain has the highest impact since it causes the most increase in the spectral value. As can be seen in Table 1. For example at the Shelf site, when it is not raining and not windy the max spectral level is 75, and then when it is raining the max spectral level is 98. At the Offshore site, when it is not raining and not windy the max spectral level is 67, and then when it is raining the max spectral level is 67.5. This is compared to the wind only maximum spectral level being 65 for both sites. 
  
  3. What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
-    * The two sites are at different depths. The Oregon Shelf Cabled site is at a depth of 80m, while the Oregon Offshore Cabled site is at a depth of 580m. The two sites will observe different spectral levels because the same sound waves will not necessarily be able to travel to both of the sites at the different depths.
+    * The two sites are at different depths. The Oregon Shelf Cabled site is at a depth of 80m, while the Oregon Offshore Cabled site is at a depth of 580m. The two sites will observe different spectral levels because the same sound waves will not necessarily be able to travel to both of the sites at the different depths. Higher frequencies will often be absorbed faster in the water and are unable to make it to the lower depths. Low frequencies will travel deep in the ocean, and the plots in Figures 1-8 support this and indicate that there is a lot of the lower frequencies since the lower frequencies all have higher spectral values per plot. The sound attenuation is the main reason for the observing different spectral levels. 
  
     
  ![](15.JPG)
@@ -169,11 +169,7 @@ __Figure 11:__ Spectrogram for a short period of time that there is an earthquak
    
 __CONCLUSIONS__ 
 
-There were two parts to this project. The purpose of the first part was to evaluate Hydrophone data from the OOI Broadband Hydrophone website and discover the effects of wind and rain on underwater noise. 
-
-The purpose of the second part to this project was to find and evaluate short periods of time where there was marine mammal vocalization, airgun noise, and earthquake/volcano eruption noise. PSD vs frequency plots were created which were able to be evaluated to understand the effects of wind and rain. It appears that the relation is ( INSERT RESULT 1).
-
-Spectrograms were created for part two in order to observe sounds in the water at different frequencies and relate them to the Wenz Curve. Hydrophone data is very valuable and provides a lot of information about ocean activities, marine life, and more. 
+There were two parts to this project. The purpose of the first part was to evaluate Hydrophone data from the OOI Broadband Hydrophone website and discover the effects of wind and rain on underwater noise. The purpose of the second part to this project was to find and evaluate short periods of time where there was marine mammal vocalization, airgun noise, and earthquake/volcano eruption noise. PSD vs frequency plots were created which were able to be evaluated to understand the effects of wind and rain. It appears that the relation is both wind and rain create more noise underwater. It appears that the wind may decrease the spectral level, and it appears that the rain increases the spectral level. The wind has the greater effect on the underwater noise levels. Also, it is apparent that different depths are affected differently by the wind and rain at the surface. This is important because it allows us to know how we may affect animals at depth with airgun noise, ships, and other noises. The spectrograms were created for part two in order to observe sounds in the water at different frequencies and relate them to the Wenz Curve. The Wenz Curve is a valueable tool that allows for understanding frequencies of various events underwater. Hydrophone data is very valuable and provides a lot of information about ocean activities, marine life, and more. 
  
  
 __REFERENCES__
