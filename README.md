@@ -124,16 +124,17 @@ Referring to the previous plots, knowing that PSD is the spectral levels, the qu
      * Effect of wind: Wind does not appear to have much of an effect on the spectral level. However, based on the plots and values recorded in Table 1, Wind does not seem to increase the spectral level, and may even decrease it based on the average and maximum values found for Wind only compared to No Rain or Wind. During the Rain and Wind time, the average and maximum values are lower than Rain only and higher than no Rain or Wind, which further suggests that wind decreases the spectral level. This is true for both the Shelf and Offshore sites.  
      * Effect of rain:  Rain appears to increase the spectral level. Based on the plots and the values recorded in Table 1, the average and maximum spectral levels are higher for the Rain only time, compared to the No Rain or Wind. This is true for both the Shelf and Offshore sites. 
     
+     ![](15.JPG)
+  
+  __Table 1:__ A table gathering the approximate average and maximum spectral values for the shelf site and offshore sites. The values collected are from analyzing Figures 1 through 8. See Figures 1 through 8 to see the plotted data. 
+  
+  
  2. Which one has the highest impact? Rain or wind? 
     * It appears that rain has the highest impact since it causes the most increase in the spectral value. As can be seen in Table 1. For example at the Shelf site, when it is not raining and not windy the max spectral level is 75, and then when it is raining the max spectral level is 98. At the Offshore site, when it is not raining and not windy the max spectral level is 67, and then when it is raining the max spectral level is 67.5. This is compared to the wind only maximum spectral level being 65 for both sites. 
  
  3. What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
     * The two sites are at different depths. The Oregon Shelf Cabled site is at a depth of 80m, while the Oregon Offshore Cabled site is at a depth of 580m. The two sites will observe different spectral levels because the same sound waves will not necessarily be able to travel to both of the sites at the different depths. Higher frequencies will often be absorbed faster in the water and are unable to make it to the lower depths. Low frequencies will travel deep in the ocean, and the plots in Figures 1-8 support this and indicate that there is a lot of the lower frequencies since the lower frequencies all have higher spectral values per plot. The sound attenuation is the main reason for the observing different spectral levels. 
  
-    
- ![](15.JPG)
-  
-  __Table 1:__ A table gathering the approximate average and maximum spectral values for the shelf site and offshore sites. The values collected are from analyzing Figures 1 through 8. See Figures 1 through 8 to see the plotted data. 
 
 
 ___Part 2 Results___
