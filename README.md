@@ -122,8 +122,8 @@ Referring to the previous plots, knowing that PSD is the spectral levels, the qu
 
  1. What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result.
     * Based on Table 1 below, 
-     * Effect of wind: ---------
-     * Effect of rain:  --------------
+     * Effect of wind: Wind does not appear to have much of an affect on the spectral level. However, based on the plots and values recorded in Table 1, Wind does not seem to increase the spectral level, and may even decrease it based on the average and maximum values found for Wind only compared to No Rain or Wind. During the Rain and Wind time, the average and maximum values are lower than Rain only and higher than no Rain or Wind, which further suggests that wind decreases the spectral level. This is true for both the Shelf and Offshore sites.  
+     * Effect of rain:  Rain appears to increase the spectral level. Based on the plots and the values recorded in Table 1, the average and maximum spectral levels are higher for the Rain only time, compared to the No Rain or Wind. This is true for both the Shelf and Offshore sites. 
     
  2. Which one has the highest impact? Rain or wind? 
     * It appears that rain has the highest impact since it causes the most increase in the spectral value.
@@ -170,7 +170,11 @@ __Figure 11:__ Spectrogram for a short period of time that there is an earthquak
    
 __CONCLUSIONS__ 
 
-There were two parts to this project. The purpose of the first part was to evaluate Hydrophone data from the OOI Broadband Hydrophone website and discover the effects of wind and rain on underwater noise. The purpose of the second part to this project was to find and evaluate short periods of time where there was marine mammal vocalization, airgun noise, and earthquake/volcano eruption noise. PSD vs frequency plots were created which were able to be evaluated to understand the effects of wind and rain. It appears that the relation is ( INSERT RESULT 1). Spectrograms were created for part two in order to observe sounds in the water at different frequencies and relate them to the Wenz Curve. Hydrophone data is very valuable and provides a lot of information about ocean activities, marine life, and more. 
+There were two parts to this project. The purpose of the first part was to evaluate Hydrophone data from the OOI Broadband Hydrophone website and discover the effects of wind and rain on underwater noise. 
+
+The purpose of the second part to this project was to find and evaluate short periods of time where there was marine mammal vocalization, airgun noise, and earthquake/volcano eruption noise. PSD vs frequency plots were created which were able to be evaluated to understand the effects of wind and rain. It appears that the relation is ( INSERT RESULT 1).
+
+Spectrograms were created for part two in order to observe sounds in the water at different frequencies and relate them to the Wenz Curve. Hydrophone data is very valuable and provides a lot of information about ocean activities, marine life, and more. 
  
  
 __REFERENCES__
