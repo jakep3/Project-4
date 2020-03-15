@@ -121,12 +121,11 @@ __Figure 8:__ When it rains and it is windy, at the Oregon Offshore site.
 Referring to the previous plots, knowing that PSD is the spectral levels, the questions were answered as follows: 
 
  1. What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result.
-    * Based on Table 1 below, 
      * Effect of wind: Wind does not appear to have much of an affect on the spectral level. However, based on the plots and values recorded in Table 1, Wind does not seem to increase the spectral level, and may even decrease it based on the average and maximum values found for Wind only compared to No Rain or Wind. During the Rain and Wind time, the average and maximum values are lower than Rain only and higher than no Rain or Wind, which further suggests that wind decreases the spectral level. This is true for both the Shelf and Offshore sites.  
      * Effect of rain:  Rain appears to increase the spectral level. Based on the plots and the values recorded in Table 1, the average and maximum spectral levels are higher for the Rain only time, compared to the No Rain or Wind. This is true for both the Shelf and Offshore sites. 
     
  2. Which one has the highest impact? Rain or wind? 
-    * It appears that rain has the highest impact since it causes the most increase in the spectral value.
+    * It appears that rain has the highest impact since it causes the most increase in the spectral value. As can be seen in Table 1. For example at the Shelf site, when it is not raining and not windy the max spectral level is 75, and then when it is raining the max spectral level is 98. At the Offshore site, when it is not raining and not windy the max spectral level is 67, and then when it is raining the max spectral level is 67.5. This is compared to the wind only maximum spectral level being 65 for both sites. 
  
  3. What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
     * The two sites are at different depths. The Oregon Shelf Cabled site is at a depth of 80m, while the Oregon Offshore Cabled site is at a depth of 580m. The two sites will observe different spectral levels because the same sound waves will not necessarily be able to travel to both of the sites at the different depths.
@@ -134,7 +133,7 @@ Referring to the previous plots, knowing that PSD is the spectral levels, the qu
     
  ![](15.JPG)
   
-  __Table 1:__ A table gathering the approximate average and maximum spectral values for the shelf site and offshore site, from Figures 1 through 8.
+  __Table 1:__ A table gathering the approximate average and maximum spectral values for the shelf site and offshore sites. The values collected are from analyzing Figures 1 through 8. See Figures 1 through 8 to see the plotted data. 
 
 
 ___Part 2 Results___
